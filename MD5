@@ -1,9 +1,8 @@
-c849059e28d97e17bf97670f03292fc7 *DESCRIPTION
-d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
+5091de268a1fc44b94c2635e5e150c7f *DESCRIPTION
+9f7317cd7c6aeb30b39a6e9e7bad8b0d *NAMESPACE
+0ea4e65f19db87fad4102c26c8356cd1 *NEWS
 f33fdbf9334c1eb7a5c18420e5e57dbb *R/fontcm.r
-3435f76944699ae5b4fac839a9844479 *README.md
-89b70ab3815f40f4a28049e7b150cff9 *TODO
-ddfe3a68f79e48c02d03bcad24ec082b *fonttest.ps
+da374891b4b23713c89d8b209331f44e *README.md
 77e257869d0e63f0dede28818d3faa7f *inst/README-cm-lgc
 59766df0f82786ba0fbf3d5ac14aa60e *inst/fonts/8r-mod.enc
 8d76c465d993d70416173cf08b837a7a *inst/fonts/cm-lgc.map
@@ -139,4 +138,4 @@ e86f095b3c5f60b5cb0b1763da9c33c7 *inst/fonts/outlines/fctrce.pfb
 bffd887aa0fe149b40c950fecb896841 *inst/fonts/outlines/fctrijpg.pfb
 14ef0593a0eead6fc4ed32a7f4337f96 *inst/fonts/outlines/fctripg.pfb
 b222c46585b6920df1f497d336111fce *inst/fonts/outlines/fctrpg.pfb
-5bacf19d3bab7e60d2a5ca71241bb0b7 *man/fontcm.Rd
+bdc10c0f9c1f27e24c05aeaace286b1a *man/fontcm.Rd
